@@ -6,3 +6,6 @@ Hier stehen verschiedene Beschreibungen zu verschiedenen Charakteren aus meinem 
 * liebt Erdbeereis
 * liebt Haselnusseis
 * liebt alle Eissorten
+As my character said:
+> I don't know
+> I just love ice cream
